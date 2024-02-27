@@ -1,0 +1,2 @@
+https://datastax-community-edition.software.informer.com/download/#downloading
+JDK 

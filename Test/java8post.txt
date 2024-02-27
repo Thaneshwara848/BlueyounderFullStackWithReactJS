@@ -1,0 +1,90 @@
+1. Which of the following is not introduced with Java 8?
+a) Stream API
+b) Serialization
+c) Spliterator
+d) Lambda Expression
+
+		ANS : b) Serialization
+
+2) What is the return type of lambda expression?
+a) String
+b) Object
+c) void
+d) Function
+		ANS : D
+
+3) What is Optional object used for?
+a) Optional is used for optional runtime argument
+b) Optional is used for optional spring profile
+c) Optional is used to represent null with absent value
+d) Optional means it’s not mandatory for method to return object
+
+		ANS : C
+
+4)What does SAM stand for in the context of Functional Interface?
+a) Single Ambivalue Method
+b) Single Abstract Method
+c) Simple Active Markup
+d) Simple Abstract Markup
+
+		Ans : B 
+
+5) What is a lambda expression in Java 8? 
+a) A lightweight thread 
+b) A lightweight process 
+c) A concise way to represent an anonymous function 
+d) A type of loop construct
+
+		ANS L c) A concise way to represent an anonymous function 
+
+6) Which annotation is used to declare a functional interface in Java 8? 
+a) @FunctionalInterface 
+b) @Interface 
+c) @Lambda 
+d) @Functional 
+		
+		ANS :a) @FunctionalInterface 
+
+7)What is the default method in an interface in Java 8? 
+a) A method that can be overridden by implementing classes 
+b) A method that is automatically inherited by implementing classes 
+c) A method that cannot be overridden by implementing classes 
+d) A method that can be accessed without an instance of the interface 
+
+
+	ANS : b) A method that is automatically inherited by implementing classes 
+
+
+8)interface A {
+     int aMethod(String s);
+}
+
+Which of the following are valid statements?
+
+
+A ) A a = a -> a.length();
+
+B) A x = y -> {return y;};
+
+c) A s = "2" -> Integer.parseInt(s);
+
+D) A b = (String s) -> 1;
+
+	ANS : option D : A b = (String s) -> 1;
+
+9)What does the :: operator represent in Java 8? 
+
+a) Ternary Operator 
+b) Null Coalescing Operator 
+c) Method Reference Operator 
+d) Concatenation Operator 
+
+		ANS : c) Method Reference Operator 
+
+10 ) What does the Java 8 feature "Method Reference" refer to? 
+a) A shorthand syntax for writing lambda expressions that call existing methods 
+b) A new way to create object references 
+c) A reference to the memory address of a method 
+d) A new type of method declaration 
+	
+		ANS : a) A shorthand syntax for writing lambda expressions that call existing methods 

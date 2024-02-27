@@ -1,0 +1,6 @@
+ID 	NAME 	AGE 	Salary 		Desig
+
+100	Thanesh	26	500000		Developer
+
+200	Raj	35	60000		Clerk
+ 

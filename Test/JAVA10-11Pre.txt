@@ -1,0 +1,22 @@
+1. Which of the following is not an access modifier?
+
+a) Protected
+b) Void
+c) Public
+d) Confidential
+
+Answer: b
+
+2 )What is Runnable?
+a. Abstract class
+b. Interface
+c. Class
+d. Method
+
+	Ans : B
+
+3)What is Runnable?
+a. Abstract class
+b. Interface
+c. Class
+d. Method

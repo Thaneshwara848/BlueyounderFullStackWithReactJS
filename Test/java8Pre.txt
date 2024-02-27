@@ -1,0 +1,90 @@
+1 ) Lambda expressions in java 8 are based on
+
+a.Procedural programming
+b.Functional programming
+c.Data programming
+d.All
+
+		ANS : b)
+
+2) how many methods are there in functional interface in Java 8?
+a.0
+b.1
+c.2
+d.3
+		ANS : B
+
+
+3)Functional interfaces method is
+
+a.static
+b.abstract
+c.final
+d.none
+
+		ANS : B
+
+4)What does SAM stand for in the context of Functional Interface?
+a) Single Ambivalue Method
+b) Single Abstract Method
+c) Simple Active Markup
+d) Simple Abstract Markup
+
+		Ans : B 
+
+5) What is a lambda expression in Java 8? 
+a) A lightweight thread 
+b) A lightweight process 
+c) A concise way to represent an anonymous function 
+d) A type of loop construct
+
+		ANS L c) A concise way to represent an anonymous function 
+
+6) Which annotation is used to declare a functional interface in Java 8? 
+a) @FunctionalInterface 
+b) @Interface 
+c) @Lambda 
+d) @Functional 
+		
+		ANS :a) @FunctionalInterface 
+
+7)How will you call a static method of an interface in a class?
+
+A - Using super keyword along with interface name.
+
+B - Using name of the interface.
+
+C - Both of the above.
+
+D - None of the above.
+
+
+	ANS : B)
+
+8)Which of the following is correct about Java8?
+
+A - Lambda expression - Adds functional processing capability to Java.
+
+B - Method references - Referencing functions by their names instead of invoking them directly. Using functions as parameter.
+
+C - Default method - Interface to have default method implementation.
+
+D - All of the above.
+
+	ANS: D 
+
+9)Using lambda expression, you can refer to final variable or effectively final variable (which is assigned only once).
+
+A - false
+
+B - true
+
+
+		ANS : B) 
+
+10 )A method reference is described using :: (double colon) symbol.
+A - false
+
+B - true
+	
+		ANS : B)

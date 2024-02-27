@@ -1,0 +1,45 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Thaneshwara848/Blueyonder.git
+git push -u origin main
+
+
+
+
+
+
+		java 8 /11/17  feature 
+
+
+		Lamda Expression
+
+		Functional Interface 
+
+		Default method 
+
+		Static method
+				
+				private methods : java 9 
+
+		new Date API
+
+		
+
+		Stream API 
+
+		Sealed class 
+	
+		Swith case
+
+		Records 
+
+		Method Refrences  
+
+		Module system 
+
+		local var syntax 
+
+		
+

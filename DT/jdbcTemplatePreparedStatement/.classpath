@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.lib.spring3.MYECLIPSE_SPRING30_CORE"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.lib.spring3.MYECLIPSE_SPRING30_Persistence_CORE"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.lib.spring3.MYECLIPSE_SPRING30_AOP"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.lib.spring3.MYECLIPSE_SPRING30_Persistence_JDBC"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/commons-collections.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/commons-digester.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/commons-pool.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/jakarta-oro.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/jstl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/slf4j-api-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/slf4j-log4j12-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/spring.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/spring-webmvc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/spring-webmvc-struts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/standard.jar"/>
+	<classpathentry kind="lib" path="C:/Users/THANESH/OneDrive/Desktop/EYY/EY-B4/JARS/SPRING/struts.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

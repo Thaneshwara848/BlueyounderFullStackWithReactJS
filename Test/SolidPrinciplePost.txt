@@ -1,0 +1,180 @@
+1 ) Solid principles was promoted by which of these?
+A.Robert Hook
+B.Robert Rich
+C.Robert Martins
+D.Robert Dawn
+
+	ANS C. Robert Martins
+
+2) The SOLID acronym in Solid Principles was introduced by 
+
+
+A.Micheal Feathers
+B.Micheal Wright
+C.Micheal Sheep
+D.Robert 
+
+	D. Robert C. Martin
+
+3)The five design principles make software design more ?
+
+	
+A.Distinct
+
+B.Useful
+
+C.Autonomous
+
+D.Maintainable
+	
+	ANS D
+
+4)Solid principle is also called
+
+
+A.Solid-oriented principle
+
+
+B.Solid-based principle
+
+
+C.Object-oriented principle
+
+
+D.Object-based principle
+
+
+	ANS : C. Object-oriented principle
+
+5)What will be the output of the following Java code?
+
+public class Shape 
+{
+	public int area()
+        {
+		return 1;
+	}
+}
+public class Square extends Shape 
+{
+	public int area()
+        {
+		return 2;
+	}
+}
+class Main() 
+{
+   public static void main(String[] args)
+   {
+	Shape shape = new Shape();
+	Square square = new Square();
+	shape = square;
+	System.out.println(shape.area());
+    }
+}
+
+
+a) Compilation failure
+b) Runtime failure
+c) 1
+d) 2
+
+
+ANS:D 
+
+
+6_) What will be the output of the following Java code?
+
+public class Shape 
+{
+	public int area()
+        {
+		return 1;
+	}
+}
+public class Square extends Shape 
+{
+	public int area()
+        {
+		return 2;
+	}
+}
+public class Rectangle extends Shape 
+{
+	public int area()
+        {
+		return 3;
+	}
+}
+class Main() 
+{
+       public static void main(String[] args)
+       {
+	 Shape shape = new Shape();
+	 Square square = new Square();
+   	 Rectangle rect = new Rectangle();
+	 rect = (Rectangle)square;
+	 System.out.println(square.area());
+	}
+}
+
+
+a) Compilation failure
+b) 3
+c) Runtime Exception
+d) 2
+
+Answer: a
+Explanation: Interface cannot be instantiated. So we cannot create instances of shape.
+
+
+7)This set of Java Questions and Answers for Campus interviews focuses on “Liskov’s Principle”.
+
+1. What does Liskov substitution principle specify?
+a) parent class can be substituted by child class
+b) child class can be substituted by parent class
+c) parent class cannot be substituted by child class
+d) No classes can be replaced by each other
+
+	Answer: a
+
+
+8)What will be the correct option of the following Java code snippet?
+
+interface ICust 
+{
+}
+class RegularCustomer implements ICust 
+{
+}
+class OneTimeCustomer implements ICust 
+{
+}
+
+a) ICust can be replaced with RegularCustomer
+b) RegularCustomer can be replaced with OneTimeCustomer
+c) OneTimeCustomer can be replaced with RegularCustomer
+d) We can instantiate objects of ICust
+
+
+	ANS : A
+
+9) Solid Principles is very usefull for building the application ? 
+
+	A : true
+	B : false 
+
+	Ans : True 
+
+10 )Concerning the solid principle which of these is odd?
+
+a )Dependency Inversion Principle
+
+B )Liskov Substitution Principle
+
+C )Interface Segregation Principle
+
+D )Single Reconstruction Principle
+
+	ANS : D 
+
